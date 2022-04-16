@@ -1,0 +1,41 @@
+/* Nav Style begin */
+
+.navbar-expand-lg {
+    flex-wrap: wrap;
+}
+
+#bg-gradient {
+    background: linear-gradient(90.19deg, #001435 0.15%, #023384 98.45%);
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+#li-first {
+    color: #14BBEA;
+}
+
+.nav-link :hover {
+    color: #14BBEA;
+}
+
+.nav-p {
+    width: 100%;
+    color: #14BBEA;
+}
+
+#nav-h1 {
+    color: whitesmoke;
+    width: 200px;
+}
+
+#nav-span {
+    color: #F0AB00;
+}
+
+/* Nav Style end  */
+
+#body-bg {
+    background-color: #001435;
+}
