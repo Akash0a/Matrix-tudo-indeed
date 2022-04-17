@@ -36,6 +36,23 @@
 
 /* Nav Style end  */
 
-#body-bg {
-    background-color: #001435;
+/* body element start */
+
+.img1 {
+    width: 30%;
+    margin: 12px 0;
+    position: relative;
+    left: 85px;
+}
+
+.h4-1 {
+
+    margin-top: 14px;
+
+}
+
+
+#CoreBP {
+    display: flex;
+    /* background-color: red; */
 }
